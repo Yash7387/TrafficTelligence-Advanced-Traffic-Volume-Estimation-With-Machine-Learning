@@ -4,4 +4,4 @@
 
 ## Demo Video link-https://youtu.be/mgBQPQHPUOo
 
-## Doc Drive Link-https://drive.google.com/drive/folders/1bqdyHH2F6FnyLLJT351Pbwkl7gpdF87P?usp=drive_link
+
